@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1044127165945",
+    "firebase_url": "https://nice-firebase-messanger.firebaseio.com",
+    "project_id": "nice-firebase-messanger",
+    "storage_bucket": "nice-firebase-messanger.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1044127165945:android:c5b261d92d756114fda128",
+        "android_client_info": {
+          "package_name": "com.example.nicefirebasemessanger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1044127165945-uf7ns0atf50jmi97fe1uucpqr7kjt2um.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyzZCALKSg6vu32Ea51XEtoqTSUqm94t4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1044127165945-uf7ns0atf50jmi97fe1uucpqr7kjt2um.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
